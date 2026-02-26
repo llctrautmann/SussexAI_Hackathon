@@ -1,1 +1,1 @@
-# SussexAI_Hackathon
+# SussexAI Hackathon Medical AI Track
