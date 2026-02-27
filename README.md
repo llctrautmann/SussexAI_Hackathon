@@ -5,3 +5,5 @@ Recent years have seen the development of Ultra-Low-Field MRI machines that are 
 An interesting project direction could be to look at a "paired" dataset of ULF and high-quality MRI scans from the same subjects to build a model that allows us to make equivalently useful images from ULF scans. Useful could mean provides similar visual information, or produces similar outputs from classification or segmentation models.
 
 Substantial datasets are not available for this, but we point you towards a [small paired dataset from the University of Leiden](https://zenodo.org/records/15374450) there are also public high quality MRI datasets such as  [IXI](https://brain-development.org/ixi-dataset/) that could be useful. 
+
+In this repository, we provide a starting point for building a model where we align the ULF and high-quality MRI data together to put it in correspondence. If you have any questions on the topic, Luca will be on hand to answer them.
