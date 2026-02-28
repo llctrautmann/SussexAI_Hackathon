@@ -1,6 +1,6 @@
 # SussexAI Hackathon Medical AI Track
 
-![[scanners.jpg]]
+![scanners](scanners.jpg)
 
 Magnetic resonance imaging (MRI) is a powerful and flexible tool for medical care and biological research. However, MRI machines are incredibly expensive and inaccessible to much of the world.
 Recent years have seen the development of Ultra-Low-Field MRI machines that are cheap and portable, but have accordingly lower image quality.
